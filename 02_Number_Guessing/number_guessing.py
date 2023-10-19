@@ -1,5 +1,5 @@
 import random
-import emojis
+
 
 print("Enter the starting and ending number range in which number you want to guess.")
 
